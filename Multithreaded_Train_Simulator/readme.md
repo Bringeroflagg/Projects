@@ -1,6 +1,6 @@
 Instructions to run mts.c:
 
-Step 1: 
+step 1: 
 
     $ make
 step 2:
