@@ -1,0 +1,7 @@
+BROWN   the quick brown fox (1)
+DOG     the lazy dog (3)
+FOX     the quick brown fox (1)
+JUMPED  jumped over (2)
+LAZY    the lazy dog (3)
+OVER    jumped over (2)
+QUICK   the quick brown fox (1)

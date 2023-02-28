@@ -1,0 +1,8 @@
+CAT       the fish a dog cat dog rabbit (1)
+CAT       the fish and cat (2)
+DOG       the fish a dog cat dog rabbit (1*)
+ELEPHANT  a rabbit or elephant (3)
+FISH      the fish a dog cat dog rabbit (1)
+FISH      the fish and cat (2)
+RABBIT    the fish a dog cat dog rabbit (1)
+RABBIT    a rabbit or elephant (3)
