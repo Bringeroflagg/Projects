@@ -7,7 +7,7 @@ import json
 from datetime import datetime
 
 URL = "https://api.openweathermap.org/data/2.5/weather?q="
-API_KEY = "1b55bf9c3d9c10a98501547253201979"
+API_KEY = "FILL_IN_API_KEY_HERE"
 KELVIN_TEMP = 273.15
 
 def set_background(type1):
